@@ -1,11 +1,11 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-title: KoteWiki
-titleTemplate: :title – Вики по языку SQF
+title: ArmaWiki
+titleTemplate: :title – Вики по языку SQF и Arma 3
 
 hero:
-  name: "KoteWiki"
+  name: "ArmaWiki"
   text: "Вики по языку SQF"
   tagline: Мы постарались сделать удобно и понятно
   image:
@@ -15,7 +15,7 @@ hero:
   actions:
     - theme: brand
       text: Приступить
-      link: /use#unbanned
+      link: /reasons
     - theme: alt
       text: Поддержать
       link: /support
@@ -23,7 +23,7 @@ hero:
 features:
   - icon: 💸
     title: Бесплатно
-    details: Мы сделали KoteWiki, чтобы больше людей вовлеклось в разработку
+    details: Мы сделали ArmaWiki, чтобы больше людей вовлеклось в разработку
   - icon: 🤝
     title: Прозрачно
     details: Открытый исходный код на GitHub
