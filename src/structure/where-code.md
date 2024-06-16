@@ -10,7 +10,7 @@
 .
 ├─ description.ext
 ├─ coolscripts
-│  ├─ fn_callDrone.sqf
+│  └─ fn_callDrone.sqf
 └─ badscripts
    └─ explodeDrone.sqf
 ```
