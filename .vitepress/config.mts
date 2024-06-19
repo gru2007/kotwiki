@@ -90,6 +90,14 @@ export default defineConfig({
             ],
           },
           {
+            text: "Основы",
+            collapsed: false,
+            items: [
+              { text: "Типы переменных", link: "/basics/vars" },
+              { text: "Сетевые переменные", link: "/basics/network-vars" },
+            ],
+          },
+          {
             text: "Запаковка миссии",
             collapsed: false,
             items: [
@@ -151,7 +159,7 @@ export default defineConfig({
       dark: "",
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/huecker-io" },
+      { icon: "github", link: "https://github.com/gru2007/kotwiki" },
 //      { icon: { svg: telegramSvg }, link: "https://t.me/hueckerio" },
     ],
   },
