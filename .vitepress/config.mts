@@ -95,6 +95,16 @@ export default defineConfig({
             items: [
               { text: "Типы переменных", link: "/basics/vars" },
               { text: "Сетевые переменные", link: "/basics/network-vars" },
+              { text: "Логические стуктуры", link: "/basics/structures" },
+            ],
+          },
+          {
+            text: "Примеры кода",
+            collapsed: false,
+            items: [
+              { text: "Справка по блоку", link: "/examples/why" },
+              { text: "Базовая MMO миссия", link: "/" },
+              { text: "Базовые механики", link: "/" },
             ],
           },
           {
