@@ -103,7 +103,7 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: "Справка по блоку", link: "/examples/why" },
-              { text: "Базовая MMO миссия", link: "/" },
+              { text: "Базовая MMO миссия", link: "https://github.com/gru2007/MP_NewRotR" },
               { text: "Базовые механики", link: "/" },
             ],
           },
